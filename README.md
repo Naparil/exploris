@@ -4,7 +4,7 @@
 
 블럭이 위에서 내려오는 일반적인 테트리스를 변형해 블록을 쏘면 튕겨져 다시 내려오는 게임입니다.
 
-![1](https://github.com/user-attachments/assets/e6a2bf56-af27-4474-a90a-591573d74739)
+![3](https://github.com/user-attachments/assets/98aacc63-7094-460d-87e4-386c1d18c403)
 
 # 조작키
 
